@@ -1125,3 +1125,153 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.30-09.34.23:578][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.020626 secs
 [2024.05.30-09.34.23:695][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.05.30-09.36.31:432][ 31]LogDerivedDataCache: C:/Users/zuzia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6995 files in 8627 folders with total size 265 MiB.
+[2024.05.30-09.43.20:503][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.30-09.43.20:690][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_4x1.beam_metal_window_divider_4x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:690][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_corner.beam_metal_window_divider_corner should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:690][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1_top.beam_pillar_metal_1_top should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:690][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2.beam_pillar_metal_1x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:690][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2_tiling.beam_pillar_metal_1x2_tiling should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x4.beam_pillar_metal_1x4 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_corner_top.beam_pillar_metal_corner_top should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_tiles_corner_bottom.beam_pillar_tiles_corner_bottom should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_a.deco_building_electrical_beam_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_b.deco_building_electrical_beam_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_wire_a.deco_building_electrical_wire_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_wire_b.deco_building_electrical_wire_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:691][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_exhaust_vent.deco_building_exhaust_vent should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:692][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_intact_4x1.deco_store_awning_intact_4x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:693][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_torn_4x1.deco_store_awning_torn_4x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:693][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_airconditioning.deco_windows_airconditioning should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:693][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_b.deco_windows_panel_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:693][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_d.deco_windows_panel_d should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:693][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_poster_lost_chicken.decal_poster_lost_chicken should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_health_code.decal_sign_store_health_code should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_hours.decal_sign_store_hours should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_sorry_open.decal_sign_store_sorry_open should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_alarm_warning.decal_sticker_alarm_warning should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_address_a.decal_sticker_store_address_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_address_b.decal_sticker_store_address_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_pull.decal_sticker_store_pull should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a.beam_roof_trim_4x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:695][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a_interior.beam_roof_trim_4x1_a_interior should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:696][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a.beam_roof_trim_corner_4x4_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:696][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a_interior.beam_roof_trim_corner_4x4_a_interior should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:697][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Rubble_Piles/rubble_dirt_pebble_pile_a.rubble_dirt_pebble_pile_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:698][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Rubble_Piles/rubble_trash_pile_a.rubble_trash_pile_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:700][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_a.store_front_door_4x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:700][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_b.store_front_door_4x1_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:701][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_5x1_a.store_front_door_5x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:702][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_4x1_a.store_front_shutters_4x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:703][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:704][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:704][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:704][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_b.store_front_windows_intact_4x1_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:704][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:704][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_left.store_front_door_b_left should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: Warning: Mesh store_front_door_b_left is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_left.store_front_door_b_left.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_a.sign_store_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_a1.sign_store_a1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_b.sign_store_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_b1.sign_store_b1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_broken_d.sign_store_broken_d should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c.sign_store_c should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c1.sign_store_c1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:705][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_intact_d.sign_store_intact_d should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:706][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_a.windows_building_upper_4x1_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:706][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_b.windows_building_upper_4x1_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_c.windows_building_upper_4x1_c should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_d.windows_building_upper_4x1_d should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_clmn_1x2.upper_brick_clmn_1x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_clmn_dvdr_1x1.upper_brick_clmn_dvdr_1x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_l_2x2.upper_brick_wall_a_l_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_l_3x2.upper_brick_wall_a_l_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:707][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_2x2.upper_brick_wall_a_r_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_3x2.upper_brick_wall_a_r_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_2x2.upper_brick_wndw_a_l_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_3x2.upper_brick_wndw_a_l_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_r_2x2.upper_brick_wndw_a_r_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_r_3x2.upper_brick_wndw_a_r_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_2x2.upper_brick_wndw_b_l_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_3x2.upper_brick_wndw_b_l_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_3x2.upper_brick_wndw_b_r_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:708][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_2x2.upper_brick_wndw_c_l_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_3x2.upper_brick_wndw_c_l_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_3x2.upper_brick_wndw_c_r_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_2x2.upper_brick_wndw_d_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_3x2.upper_brick_wndw_d_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_balcony.deco_fire_escape_balcony should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder.deco_fire_escape_ladder should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder_top.deco_fire_escape_ladder_top should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:709][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_0x2.deco_upper_blocks_0x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:710][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_0x2.deco_upper_blocks_cnr_0x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_1x2.deco_upper_blocks_cnr_1x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_a.deco_upper_ornament_flower_a should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_b.deco_upper_ornament_flower_b should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_l_3x2.mid_brick_wndw_cnr_l_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_r_3x2.mid_brick_wndw_cnr_r_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_l_2x2.mid_brick_wndw_l_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:711][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_l_3x2.mid_brick_wndw_l_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_r_2x2.mid_brick_wndw_r_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_r_3x2.mid_brick_wndw_r_3x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_1x1.beam_upper_roof_trim_a_1x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_4x1.beam_upper_roof_trim_a_4x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_2x2.beam_upper_roof_trim_a_cnr_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_4x4.beam_upper_roof_trim_a_cnr_4x4 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_1x1.beam_upper_roof_trim_b_1x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:712][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_4x1.beam_upper_roof_trim_b_4x1 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:713][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_2x2.beam_upper_roof_trim_b_cnr_2x2 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:713][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_4x4.beam_upper_roof_trim_b_cnr_4x4 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:713][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_end_l.beam_upper_roof_trim_end_l should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:713][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_end_r.beam_upper_roof_trim_end_r should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:713][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_ground_3x3.plane_ground_3x3 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:713][522]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_ground_4x4.plane_ground_4x4 should be resaved to improve async compilation performance.
+[2024.05.30-09.43.20:730][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.43.20:743][522]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
+[2024.05.30-09.43.20:743][522]Cmd: MAP LOAD FILE="../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Content/ModularBuildingSet/Demo_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.30-09.43.20:743][522]LightingResults: New page: Lighting Build
+[2024.05.30-09.43.20:743][522]LoadErrors: New page: Loading map: Demo_Scene.umap
+[2024.05.30-09.43.20:776][522]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-09.43.20:776][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-09.43.20:778][522]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.05.30-09.43.20:778][522]MapCheck: New page: Map Check
+[2024.05.30-09.43.20:778][522]LightingResults: New page: Lighting Build
+[2024.05.30-09.43.20:779][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.30-09.43.20:788][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.30-09.43.20:802][522]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-09.43.20:804][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-09.43.20:819][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.30-09.43.20:822][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.30-09.43.20:890][522]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Scene'.
+[2024.05.30-09.43.20:891][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-09.43.20:891][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-09.43.20:891][522]LogAIModule: Creating AISystem for world Demo_Scene
+[2024.05.30-09.43.21:827][522]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.30-09.43.21:839][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.30-09.43.21:840][522]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.30-09.43.21:840][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2024.05.30-09.43.22:037][523]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: ================================================
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Total job queries 23, among them cache hits 0 (0.00%)
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: RAM used: 1.85 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Jobs assigned 17, completed 1 (5.88%)
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.34 s
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Job execution time: average 0.35 s, max 0.35 s
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Job life time (pending + execution): average 0.35 s, max 0.35
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Shader code size: average 2.184 KiB, min 2.184 KiB, max 2.184 KiB
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.35 s
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Average processing rate: 2.82 jobs/sec
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Total thread time: 0.102 s
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Total thread preprocess time: 0.015 s
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Percentage time preprocessing: 14.74%
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Effective parallelization: 0.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2024.05.30-09.43.22:261][527]LogShaderCompilers: Display: ================================================
