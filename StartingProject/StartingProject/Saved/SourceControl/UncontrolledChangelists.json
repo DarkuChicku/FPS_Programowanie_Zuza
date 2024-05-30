@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zuzia/Desktop/FPS_Programowanie/StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene.umap",
+				"C:/Users/zuzia/Desktop/FPS_Programowanie/StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene_BuiltData.uasset",
+				"C:/Users/zuzia/Desktop/Programowanie/StartingProject/StartingProject/Content/ModularBuildingSet/Demo_Scene.umap"
+			]
+		}
+	]
+}
