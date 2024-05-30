@@ -5404,3 +5404,269 @@ GroupActor_7
 [2024.05.30-10.54.40:992][892]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TrashAssets/Maps/Overview_Auto1 is in the /Temp path, will not scan.
 [2024.05.30-10.54.40:992][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TrashAssets/Maps/Overview' took 0.022
 [2024.05.30-10.54.40:992][892]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.05.30-11.11.30:515][212]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.30-11.11.30:521][212]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.30-11.11.30:525][212]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.30-11.11.30:547][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.30-11.11.32:934][484]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.05.30-11.11.32:939][484]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.30-11.11.33:127][504]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TrashAssets/Meshes/NewBlueprint.NewBlueprint
+[2024.05.30-11.11.33:127][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.11.33:127][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-11.11.33:132][504]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.30-11.11.33:508][504]LogStaticMesh: Display: Building static mesh PhAT_FloorBox...
+[2024.05.30-11.11.33:509][504]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2024.05.30-11.11.33:566][504]LogViewport: Scene viewport resized to 1498x1138, mode Windowed.
+[2024.05.30-11.12.08:655][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.30-11.12.08:656][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TrashAssets/Maps/Overview' took 0.010
+[2024.05.30-11.12.08:656][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TrashAssets/Meshes/NewBlueprint] ([2] browsable assets)...
+[2024.05.30-11.12.08:656][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrashAssets/Meshes/NewBlueprint]
+[2024.05.30-11.12.08:658][ 71]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TrashAssets/Meshes/NewBlueprint_Auto2
+[2024.05.30-11.12.08:658][ 71]LogSavePackage: Moving '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/NewBlueprint_Auto26060744847B4B099431588AB107B2E8F.tmp' to '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/Autosaves/Game/TrashAssets/Meshes/NewBlueprint_Auto2.uasset'
+[2024.05.30-11.12.08:659][ 71]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.05.30-11.12.16:475][953]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.05.30-11.12.18:993][235]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.05.30-11.12.28:673][384]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.12.28:673][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.12.31:312][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.30-11.12.32:274][675]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-11.12.32:288][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.30-11.12.32:297][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.30-11.12.32:306][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.30-11.12.35:960][952]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.30-11.12.35:981][952]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.30-11.12.35:985][952]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.30-11.12.36:001][953]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.30-11.12.36:834][ 33]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.05.30-11.12.36:838][ 33]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.30-11.12.37:015][ 51]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TrashAssets/Meshes/NewBlueprint.NewBlueprint
+[2024.05.30-11.12.37:016][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.12.37:016][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-11.12.37:112][ 51]LogViewport: Scene viewport resized to 1499x1141, mode Windowed.
+[2024.05.30-11.12.40:031][379]BlueprintLog: New page: Compile NewBlueprint
+[2024.05.30-11.12.40:044][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.30-11.12.54:415][  4]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2024.05.30-11.13.05:151][147]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18417751648590245595
+[2024.05.30-11.13.05:151][147]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.05.30-11.13.35:823][972]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.05.30-11.13.35:828][972]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.13.35:828][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.13.38:135][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.30-11.13.39:312][238]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-11.13.39:331][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.30-11.13.39:339][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.30-11.13.39:348][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.30-11.13.47:343][672]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.30-11.13.47:369][672]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.30-11.13.47:373][672]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.30-11.13.47:389][673]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.30-11.13.49:759][928]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.05.30-11.13.49:763][928]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.30-11.13.49:972][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TrashAssets/Meshes/NewBlueprint.NewBlueprint
+[2024.05.30-11.13.49:972][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.13.49:972][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-11.13.50:109][950]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2024.05.30-11.14.33:270][376]LogViewport: Scene viewport resized to 2286x1840, mode Windowed.
+[2024.05.30-11.14.33:291][378]LogViewport: Scene viewport resized to 2285x1840, mode Windowed.
+[2024.05.30-11.14.33:306][379]LogViewport: Scene viewport resized to 2283x1840, mode Windowed.
+[2024.05.30-11.14.33:321][380]LogViewport: Scene viewport resized to 2280x1840, mode Windowed.
+[2024.05.30-11.14.33:335][381]LogViewport: Scene viewport resized to 2279x1840, mode Windowed.
+[2024.05.30-11.14.33:348][382]LogViewport: Scene viewport resized to 2273x1840, mode Windowed.
+[2024.05.30-11.14.33:361][383]LogViewport: Scene viewport resized to 2262x1840, mode Windowed.
+[2024.05.30-11.14.33:375][384]LogViewport: Scene viewport resized to 2250x1840, mode Windowed.
+[2024.05.30-11.14.33:387][385]LogViewport: Scene viewport resized to 2234x1840, mode Windowed.
+[2024.05.30-11.14.33:400][386]LogViewport: Scene viewport resized to 2198x1840, mode Windowed.
+[2024.05.30-11.14.33:413][387]LogViewport: Scene viewport resized to 2167x1840, mode Windowed.
+[2024.05.30-11.14.33:438][388]LogViewport: Scene viewport resized to 2106x1840, mode Windowed.
+[2024.05.30-11.14.33:451][389]LogViewport: Scene viewport resized to 2074x1840, mode Windowed.
+[2024.05.30-11.14.33:471][390]LogViewport: Scene viewport resized to 2036x1840, mode Windowed.
+[2024.05.30-11.14.33:483][391]LogViewport: Scene viewport resized to 2011x1840, mode Windowed.
+[2024.05.30-11.14.33:497][392]LogViewport: Scene viewport resized to 1986x1840, mode Windowed.
+[2024.05.30-11.14.33:509][393]LogViewport: Scene viewport resized to 1979x1840, mode Windowed.
+[2024.05.30-11.14.33:522][394]LogViewport: Scene viewport resized to 1973x1840, mode Windowed.
+[2024.05.30-11.14.33:716][417]LogViewport: Scene viewport resized to 1979x1840, mode Windowed.
+[2024.05.30-11.14.33:733][418]LogViewport: Scene viewport resized to 1997x1840, mode Windowed.
+[2024.05.30-11.14.33:749][419]LogViewport: Scene viewport resized to 2030x1840, mode Windowed.
+[2024.05.30-11.14.33:762][420]LogViewport: Scene viewport resized to 2070x1840, mode Windowed.
+[2024.05.30-11.14.33:795][421]LogViewport: Scene viewport resized to 2157x1840, mode Windowed.
+[2024.05.30-11.14.33:810][422]LogViewport: Scene viewport resized to 2196x1840, mode Windowed.
+[2024.05.30-11.14.33:825][423]LogViewport: Scene viewport resized to 2227x1840, mode Windowed.
+[2024.05.30-11.14.33:838][424]LogViewport: Scene viewport resized to 2240x1840, mode Windowed.
+[2024.05.30-11.14.33:853][425]LogViewport: Scene viewport resized to 2243x1840, mode Windowed.
+[2024.05.30-11.14.34:106][455]LogViewport: Scene viewport resized to 2242x1840, mode Windowed.
+[2024.05.30-11.14.34:220][468]LogViewport: Scene viewport resized to 2241x1840, mode Windowed.
+[2024.05.30-11.14.34:233][469]LogViewport: Scene viewport resized to 2240x1840, mode Windowed.
+[2024.05.30-11.14.34:255][471]LogViewport: Scene viewport resized to 2238x1840, mode Windowed.
+[2024.05.30-11.14.34:267][472]LogViewport: Scene viewport resized to 2237x1840, mode Windowed.
+[2024.05.30-11.14.34:281][473]LogViewport: Scene viewport resized to 2235x1840, mode Windowed.
+[2024.05.30-11.14.34:293][474]LogViewport: Scene viewport resized to 2228x1840, mode Windowed.
+[2024.05.30-11.14.34:306][475]LogViewport: Scene viewport resized to 2217x1840, mode Windowed.
+[2024.05.30-11.14.34:319][476]LogViewport: Scene viewport resized to 2212x1840, mode Windowed.
+[2024.05.30-11.14.34:332][477]LogViewport: Scene viewport resized to 2207x1840, mode Windowed.
+[2024.05.30-11.14.34:344][478]LogViewport: Scene viewport resized to 2202x1840, mode Windowed.
+[2024.05.30-11.14.34:357][479]LogViewport: Scene viewport resized to 2199x1840, mode Windowed.
+[2024.05.30-11.14.34:377][481]LogViewport: Scene viewport resized to 2198x1840, mode Windowed.
+[2024.05.30-11.14.34:481][493]LogViewport: Scene viewport resized to 2195x1840, mode Windowed.
+[2024.05.30-11.14.34:493][494]LogViewport: Scene viewport resized to 2194x1840, mode Windowed.
+[2024.05.30-11.14.34:531][498]LogViewport: Scene viewport resized to 2193x1840, mode Windowed.
+[2024.05.30-11.14.41:217][241]LogDerivedDataCache: C:/Users/zuzia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.084 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15076 files in 17505 folders with total size 1366 MiB.
+[2024.05.30-11.15.08:117][  6]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.30-11.15.08:117][  6]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.30-11.22.08:871][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.30-11.22.08:872][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TrashAssets/Maps/Overview' took 0.013
+[2024.05.30-11.22.08:872][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TrashAssets/Meshes/NewBlueprint] ([2] browsable assets)...
+[2024.05.30-11.22.08:872][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrashAssets/Meshes/NewBlueprint]
+[2024.05.30-11.22.08:875][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TrashAssets/Meshes/NewBlueprint_Auto3
+[2024.05.30-11.22.08:875][172]LogSavePackage: Moving '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/NewBlueprint_Auto3A975776042F12E574B93D48417204F93.tmp' to '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/Autosaves/Game/TrashAssets/Meshes/NewBlueprint_Auto3.uasset'
+[2024.05.30-11.22.08:875][172]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.05.30-11.23.39:843][586]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.05.30-11.23.39:849][586]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.23.39:849][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.23.41:978][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.30-11.23.43:045][821]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-11.23.43:058][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.30-11.23.43:068][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.30-11.23.43:073][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.30-11.23.46:828][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.30-11.23.47:891][251]LogSlate: Window 'Save Content' being destroyed
+[2024.05.30-11.23.47:899][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-11.23.47:940][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.30-11.23.47:952][251]LogSavePackage: Moving output files for package: /Game/TrashAssets/Maps/Overview
+[2024.05.30-11.23.47:952][251]LogSavePackage: Moving '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/OverviewB5BC816D46930ED82854CE96EAD31B8F.tmp' to '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Content/TrashAssets/Maps/Overview.umap'
+[2024.05.30-11.23.47:957][251]LogFileHelpers: Saving map 'Overview' took 0.032
+[2024.05.30-11.23.47:962][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.62 sec)
+[2024.05.30-11.23.48:060][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.23.48:084][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ModularBuildingSet/Demo_Scene.Demo_Scene
+[2024.05.30-11.23.48:084][251]Cmd: MAP LOAD FILE="../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Content/ModularBuildingSet/Demo_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.30-11.23.48:084][251]LightingResults: New page: Lighting Build
+[2024.05.30-11.23.48:084][251]LoadErrors: New page: Loading map: Demo_Scene.umap
+[2024.05.30-11.23.48:095][251]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.23.48:095][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.23.48:095][251]MapCheck: New page: Map Check
+[2024.05.30-11.23.48:095][251]LightingResults: New page: Lighting Build
+[2024.05.30-11.23.48:111][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.30-11.23.48:113][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.30-11.23.48:116][251]LogWorld: UWorld::CleanupWorld for Demo_Scene, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.23.48:119][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.23.48:123][251]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.23.48:123][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.23.48:140][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.30-11.23.48:147][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.30-11.23.48:221][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demo_Scene'.
+[2024.05.30-11.23.48:221][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.23.48:221][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-11.23.48:221][251]LogAIModule: Creating AISystem for world Demo_Scene
+[2024.05.30-11.23.49:186][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.30-11.23.49:204][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.30-11.23.49:207][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.30-11.23.49:207][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2024.05.30-11.23.49:214][251]AssetCheck: New page: Asset Save: Overview
+[2024.05.30-11.23.54:798][860]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.30-11.23.54:807][860]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.30-11.23.54:811][861]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.30-11.24.02:743][810]LogContentBrowser: Attempting asset rename: NewFolder -> Zuza
+[2024.05.30-11.24.02:743][810]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.30-11.24.07:083][317]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.30-11.24.07:090][317]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.30-11.24.07:158][319]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.30-11.24.12:147][912]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.05.30-11.24.12:147][912]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.30-11.24.15:417][169]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.30-11.24.15:423][169]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.30-11.24.15:427][169]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.30-11.24.15:440][171]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.30-11.24.16:677][302]LogContentBrowser: Attempting asset rename: NewBlueprint -> FPS_Characte
+[2024.05.30-11.24.16:682][302]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.30-11.24.24:091][146]LogContentBrowser: Attempting asset rename: FPS_Characte -> FPS_Character
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.FPS_Character:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.SKEL_FPS_Character_C:UserConstructionScript' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.SKEL_FPS_Character_C' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.FPS_Character_C' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.FPS_Character:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.FPS_Character:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogMetaData: Removing '/Game/Zuza/Blueprints/FPS_Character.FPS_Character:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Zuza/Blueprints/FPS_Characte.PackageMetaData'
+[2024.05.30-11.24.24:107][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-11.24.24:125][146]LogSavePackage: Moving output files for package: /Game/Zuza/Blueprints/FPS_Character
+[2024.05.30-11.24.24:125][146]LogSavePackage: Moving '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/FPS_CharacterB955CEB5488ED16BB4B896BF175F891A.tmp' to '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Content/Zuza/Blueprints/FPS_Character.uasset'
+[2024.05.30-11.24.24:133][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 3.64 sec)
+[2024.05.30-11.24.24:146][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.30-11.24.24:152][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.30-11.24.24:161][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.30-11.24.24:162][146]AssetCheck: New page: Asset Save: FPS_Character
+[2024.05.30-11.24.24:162][146]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Zuza/Blueprints/FPS_Character.FPS_Character
+[2024.05.30-11.24.24:894][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Zuza/Blueprints/FPS_Character.FPS_Character
+[2024.05.30-11.24.24:894][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.24.24:894][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.30-11.24.25:028][229]LogViewport: Scene viewport resized to 2193x1840, mode Windowed.
+[2024.05.30-11.24.26:402][347]LogViewport: Scene viewport resized to 2190x1876, mode Windowed.
+[2024.05.30-11.24.26:458][349]LogViewport: Scene viewport resized to 1014x764, mode Windowed.
+[2024.05.30-11.24.26:501][350]LogViewport: Scene viewport resized to 453x234, mode Windowed.
+[2024.05.30-11.24.26:539][351]LogViewport: Scene viewport resized to 441x222, mode Windowed.
+[2024.05.30-11.24.26:955][401]LogViewport: Scene viewport resized to 2193x1840, mode Windowed.
+[2024.05.30-11.24.27:370][449]LogSlate: Window 'FPS_Character' being destroyed
+[2024.05.30-11.24.28:786][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.30-11.24.46:192][507]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.30-11.24.51:346][116]LogSkeletalMesh: Building Skeletal Mesh Mesh_Arms...
+[2024.05.30-11.24.51:361][116]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2024.05.30-11.24.51:367][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.24.51:430][118]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_SpecularSmoothness.T_01_gloves_SpecularSmoothness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.51:431][118]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_SpecularSmoothness.T_01_hands_SpecularSmoothness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.51:435][118]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_clothes_SpecularSmoothness.T_01_clothes_SpecularSmoothness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.51:727][138]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_Albedo_Grey.T_01_hands_Albedo_Grey (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.51:818][142]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_Camo_AlbedoTransparency.T_01_gloves_Camo_AlbedoTransparency (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.51:960][151]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_Camo_clothes_AlbedoTransparency.T_01_Camo_clothes_AlbedoTransparency (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.52:233][170]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_Normal.T_01_hands_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.52:310][172]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_Normal.T_01_gloves_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.52:351][174]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_clothes_Normal.T_01_clothes_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2024.05.30-11.24.52:555][186]LogShaderCompilers: Display: ================================================
+[2024.05.30-11.24.52:555][186]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.30-11.24.52:555][186]LogShaderCompilers: Display: Total job queries 919, among them cache hits 390 (42.44%)
+[2024.05.30-11.24.52:555][186]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 270 distinct outputs (53.05%)
+[2024.05.30-11.24.52:555][186]LogShaderCompilers: Display: RAM used: 1.14 MiB of 3.20 GiB budget. Usage: 0.03%
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Shaders Compiled: 264
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Jobs assigned 267, completed 264 (98.88%)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Average time worker was idle: 111.31 s
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Time job spent in pending queue: average 0.44 s, longest 1.94 s
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.09 s
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 2.27
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Shader code size: average 3.675 KiB, min 280 B, max 10.164 KiB
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.99 s
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Jobs were issued in 267 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Average processing rate: 13.90 jobs/sec
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Total thread time: 79.356 s
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Total thread preprocess time: 6.05 s
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Percentage time preprocessing: 7.62%
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Effective parallelization: 4.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    8 times, average 0.51 sec, max 0.57 sec, min 0.47 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    8 times, average 0.48 sec, max 0.51 sec, min 0.42 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled   15 times, average 0.47 sec, max 0.51 sec, min 0.30 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled   15 times, average 0.46 sec, max 0.54 sec, min 0.29 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   14 times, average 0.38 sec, max 0.50 sec, min 0.29 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.57% of total time (compiled   45 times, average 0.31 sec, max 0.76 sec, min 0.20 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.47% of total time (compiled   39 times, average 0.31 sec, max 0.51 sec, min 0.20 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.44% of total time (compiled   44 times, average 0.28 sec, max 0.77 sec, min 0.16 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 8.90% of total time (compiled   15 times, average 0.47 sec, max 0.51 sec, min 0.30 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 8.79% of total time (compiled   15 times, average 0.46 sec, max 0.54 sec, min 0.29 sec)
+[2024.05.30-11.24.52:556][186]LogShaderCompilers: Display: ================================================
+[2024.05.30-11.24.52:710][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.25.41:709][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.30-11.25.41:733][934]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.30-11.25.41:760][934]LogSavePackage: Moving output files for package: /Game/Zuza/Blueprints/FPS_Character
+[2024.05.30-11.25.41:760][934]LogSavePackage: Moving '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Saved/FPS_CharacterC12B337549942F5AB8C98189CEEBC652.tmp' to '../../../../../../Users/zuzia/Desktop/FPS_Programowanie_Zuza/StartingProject/Content/Zuza/Blueprints/FPS_Character.uasset'
+[2024.05.30-11.25.41:765][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 3.70 sec)
+[2024.05.30-11.25.41:765][934]AssetCheck: New page: Asset Save: FPS_Character
+[2024.05.30-11.25.41:765][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Zuza/Blueprints/FPS_Character.FPS_Character
+[2024.05.30-11.27.51:466][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.30-11.27.52:295][707]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.30-11.27.52:356][707]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.05.30-11.27.52:356][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.30-11.27.52:383][707]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Zuza/Blueprints/FPS_Character.FPS_Character
+	Asset Type: Blueprint
+[2024.05.30-11.27.52:546][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.30-11.27.52:567][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.30-11.27.52:572][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.30-11.27.52:582][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
